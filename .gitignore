@@ -213,3 +213,7 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+
+# Dejamos fuera la configuracion de conexion a la DB
+wp-config.php
