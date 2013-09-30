@@ -828,7 +828,7 @@ msgstr ""
 
 #: ../epanel/options_nimble.php:385
 msgid "Use pages"
-msgstr ""
+msgstr "Usar páginas"
 
 #: ../epanel/options_nimble.php:389
 msgid ""
