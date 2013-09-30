@@ -1636,7 +1636,7 @@ msgstr ""
 
 #: ../epanel/shortcodes/shortcodes.php:365
 msgid "Click here to learn more"
-msgstr ""
+msgstr "Click aquí para aprender más"
 
 #: ../epanel/shortcodes/shortcodes.php:973
 msgid "Caption"
